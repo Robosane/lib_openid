@@ -8,9 +8,9 @@
     <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
     <author>OpenID Community</author>
     <authorUrl>http://www.openidenabled.com</authorUrl>
-    <files folder="libraries">
+    <files>
         <folder>Auth</folder>
         <file>index.html</file>
     </files>
 </extension>
- 
+
