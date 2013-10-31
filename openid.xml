@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="library" version="3.1">
+    <name>OpenID Library</name>
+    <libraryname>openid</libraryname>
+    <version>2.1</version>
+    <description>Open ID Library</description>
+    <creationDate>2013</creationDate>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <author>OpenID Community</author>
+    <authorUrl>http://www.openidenabled.com</authorUrl>
+    <files folder="libraries">
+        <folder>Auth</folder>
+        <file>index.html</file>
+    </files>
+</extension>
+ 
